@@ -4,6 +4,8 @@ Opencore 0.6.8 EFI for the HP Prodesk 400 G5 Mini desktop
 
 Based on [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
+Remember to [generate your own SMBIOS](https://github.com/corpnewt/GenSMBIOS) and update config.plist
+
 Hardware Specs
 - Intel Core i3 9100T
 - Intel UHD 630 Graphics
